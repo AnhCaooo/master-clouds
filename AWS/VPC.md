@@ -18,4 +18,4 @@
 
 - **Step 9**: Keep rest as default and click on `Create VPC` button
 
-In order to have more info, check this YouTube video reference [How to Create an AWS VPC with Public and Private Subnets](https://www.youtube.com/watch?v=ApGz8tpNLgo)
+In order to have more info, check this YouTube video reference from beginning to 10:53 [How to Create an AWS VPC with Public and Private Subnets](https://www.youtube.com/watch?v=ApGz8tpNLgo)
