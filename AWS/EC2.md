@@ -14,7 +14,7 @@ Check from AWS
 ### Create you Linux user (for Ubuntu)
 See my [setup Linux user][ubuntu user setup] to set up your user in your EC2 
 
-### Enable Password Authentication in AWS EC2
+### Enable Password Authentication in AWS EC2 (Note, this is not recommended. And the following suggestion might not working)
 At default, you have to pass cert key with SSH in order to log in to your EC2. However, there is a way to use password instead. 
 
 #### Step 1: Login to AWS instance 
