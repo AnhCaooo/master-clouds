@@ -14,13 +14,14 @@ sudo apt install <package_name>
 ```
 
 ### Remove packages 
-- Detail commands 
+#### Detail commands 
 1. Remove the given package
 ```bash 
 sudo apt-get remove <package_name>
 ```
 2. Purge any related code
 ```bash
+sudo apt-get purge <package_name>
 ```
 
 3. Autoremove
@@ -33,7 +34,7 @@ sudo apt-get autoremove
 sudo apt-get clean
 ```
 
-- All in one command 
+#### All in one command 
 ```bash
 sudo apt-get purge --auto-remove packagename
 ```
